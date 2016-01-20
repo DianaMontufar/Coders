@@ -1,0 +1,91 @@
+hr{
+	color: red;
+	height: 5px;
+	background-color: black;
+	width: 100px;
+	margin-left:3px;
+}
+.papa1{
+	width: 1500px;
+	height: 300px;
+	border: none;
+	background: white;
+	padding-top: 19px;
+}
+.div1{
+	width: 400px;
+	height: 400px;
+	display: inline-block;
+	margin-right: 8px;
+	margin-left: 10px;
+}
+.coder1{
+	width: 300px; 
+	height: 300px;
+}
+.div2{
+	width: 400px;
+	height: 400px;
+	display: inline-block;
+	margin-right: 8px;
+}
+.coder2{
+	width: 300px; 
+	height: 300px;
+}
+.div3{
+	width: 400px;
+	height: 400px;
+	display: inline-block;
+	margin-right: 8px;
+}
+.coder3{
+	width: 300px;
+	height: 300px;
+}
+.papa2{
+	width: 1500px;
+	height: 300px;
+	border: none;
+	background: white;
+	margin-top: 0px;
+	display: inline-block;
+}
+.div4{
+	width: 400px;
+	height: 400px;
+	display: inline-block;
+	margin-right: 8px;
+	margin-left: 10px;
+}
+.coder4{
+	width: 300px; 
+	height: 300px;
+}
+.div5{
+	width: 400px;
+	height: 400px;
+	display: inline-block;
+	margin-right: 8px;
+}
+.coder5{
+	width: 300px; 
+	height: 300px;
+}
+.div6{
+	width: 400px;
+	height: 400px;
+	display: inline-block;
+	margin-right: 8px;
+}
+.coder6{
+	width: 300px;
+	height: 300px;
+}
+.sp{
+	position: relative;
+	top: -18px;
+	left: -100px;
+	color: white;
+
+}
